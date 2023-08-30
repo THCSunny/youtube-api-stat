@@ -1,4 +1,7 @@
 # youtube-api-stat
-In this project, we need to use the YouTube API key to obtain the data from YouTube. In this demonstration, a Taiwanese YouTube Channel called "攝圖日記" is used to do the data analysis. You can also analyse other YouTube channels that you like.  
+## Objectives and background
+Established in 2005, YouTube has evolved into the world's second-largest search platform, processing over 3 billion searches monthly, second only to Google [[1]](https://www.mushroomnetworks.com/infographics/youtube---the-2nd-largest-search-engine-infographic/). Nevertheless, comprehending the inner workings of the YouTube algorithm and the factors influencing video views and recommendations remains somewhat enigmatic. YouTube boasts one of the most extensive and intricate recommendation systems in the industrial landscape [[2]](https://dl.acm.org/doi/10.1145/2959100.2959190). For novice content creators, grasping why some videos garner views while others languish is a formidable challenge. A multitude of "myths" surrounds the success of YouTube videos [[3]](https://vidiq.com/blog/post/5-youtube-algorithm-myths-youtubers-need-to-know-about/). These myths encompass beliefs such as the significance of likes or comments, as well as the optimal video duration. Additionally, it's worthwhile for creators to experiment and identify "trends" within the niches covered by YouTube channels.  
+
+In this project, the YouTube API key is needed to obtain the data from YouTube. In this demonstration, a Taiwanese YouTube Channel called "攝圖日記" is used to do the data analysis. Other YouTube channels can also be analysed if the channel ID is obtained.  
 
 As the YouTuber may upload a new video to the channel, it may affect the statistics for the worse-performing video results.
